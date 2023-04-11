@@ -2,6 +2,7 @@
 ### Catch the wrong color
 เกมจับผิดสีที่แตกต่างจากอันอื่น ภายในระยะเวลา 60 นาที
 
+### Try it!
 https://thanakornprojectgame.vercel.app/
 
 ### รายการฟีเจอร์
