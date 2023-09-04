@@ -3,7 +3,7 @@
 เกมจับผิดสีที่แตกต่างจากอันอื่น ภายในระยะเวลา 60 นาที
 
 ### Try it!
-https://thanakornprojectgame.vercel.app/
+https://catch-the-wrong-color.vercel.app/
 
 ### รายการฟีเจอร์
 1. `การใส่ชื่อ` - ผู้ใช้งานสามารถกำหนดชื่อก่อนที่จะเล่นเกมได้
