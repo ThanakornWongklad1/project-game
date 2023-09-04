@@ -20,3 +20,19 @@ https://catch-the-wrong-color.vercel.app/
 3. ผู้เล่นจะต้องเลือกวงกลมสีที่แตกต่างจากวงกลมอื่นภายในเวลาที่กำหนด 60 วินาที
 4. เกมจะสิ้นสุดลงเมื่อเวลาหมด
 5. ระหว่างเล่นเกม ผู้เล่นสามารถกลับไปที่เมนูหลัก หรือ เริ่มเกมใหม่ได้
+
+### ตัวอย่างเกม
+![image](https://github.com/ThanakornWonglad/project-game/assets/102203038/4e308d9c-cca5-4d64-8497-86ec113e9be2)
+
+![image](https://github.com/ThanakornWonglad/project-game/assets/102203038/c1edc212-ca7e-4666-978c-4a0542e337dd)
+
+![image](https://github.com/ThanakornWonglad/project-game/assets/102203038/06c19bc7-b480-4f7a-992a-f55abe1493fa)
+
+![image](https://github.com/ThanakornWonglad/project-game/assets/102203038/d34b3ef1-2509-4792-b1bd-b5ca4e14a133)
+
+![image](https://github.com/ThanakornWonglad/project-game/assets/102203038/9d220122-7bf4-4d47-84f2-6c8fae92a848)
+
+
+
+
+
